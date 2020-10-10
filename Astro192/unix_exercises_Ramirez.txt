@@ -1,0 +1,13 @@
+2a. /home/Xalexandrez/Astro192
+4a. 6
+4b. Starcharts.pdf
+5a. cp StarHeader.txt junk.txt
+6a. mv junk.dat junque.dat
+7a. rm junque.dat
+8a. cat StarHeader.txt
+8b. Num, Ra, DE, Vmag, B-V, Parallax, uRa ,uDec
+9a. echo Alexandre_Ramirez > small.dat
+10a.  head -100 BrightStars.dat >small.dat
+11. tail -10 BrightStars.dat >> small.dat
+12a. small.dat has 110 lines. BrightStars.dat has 5016 lines
+12b.I used wc on each. To make sure that I was right I used wc --help and saw that wc -l printed number of lines
